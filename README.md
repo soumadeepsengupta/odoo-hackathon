@@ -73,3 +73,6 @@
 - Node.js
 - Express.js
 - MongoDB + Mongoose
+
+  ### Figma link
+  https://www.figma.com/design/oQC6Qt4zR5lQY4L1cvyyaf/odoo?node-id=0-1&t=O0XGNmeAqaGTh5Pt-1
